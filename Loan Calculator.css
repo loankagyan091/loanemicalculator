@@ -17,12 +17,12 @@ body
     color: #FFFFFF;
   }
 .slidecontainer {
-  width: 100%;
+  width: 50%;
 }
 
 .slider {
   -webkit-appearance: none;
-  width: 100%;
+  width: 80%;
   height: 25px;
   background: #d3d3d3;
   outline: none;
